@@ -1,0 +1,15 @@
+.social-icon-links {
+    color: inherit;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+
+    &__link {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    &__element {
+        margin: 0 1rem;
+    }
+}

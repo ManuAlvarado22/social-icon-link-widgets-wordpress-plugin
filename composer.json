@@ -1,0 +1,11 @@
+{
+    "name": "manualvarado22/social-icon-links-widget",
+    "description": "This plugin allows you to display social icons for your social networks with a widget",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "SocialIconLinksWidget\\": "./inc" }
+    }
+}

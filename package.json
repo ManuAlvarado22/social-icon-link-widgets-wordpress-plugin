@@ -1,0 +1,13 @@
+{
+  "name": "social-icon-links-widget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "sass": "node-sass assets/src/sass/style.scss -o assets/dist/css",
+    "sass:watch": "yarn run sass --watch"
+  },
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
